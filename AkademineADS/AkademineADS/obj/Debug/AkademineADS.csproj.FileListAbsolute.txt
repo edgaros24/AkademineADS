@@ -1,0 +1,13 @@
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\bin\Debug\AkademineADS.exe.config
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\bin\Debug\AkademineADS.exe
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\bin\Debug\AkademineADS.pdb
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.csproj.AssemblyReference.cache
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.frm_AdminHome.resources
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.frm_StudentHome.resources
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.frm_Login.resources
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.Properties.Resources.resources
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.frm_TeacherHome.resources
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.exe
+C:\Users\edgar\source\repos\AkademineADS\AkademineADS\obj\Debug\AkademineADS.pdb
